@@ -2,7 +2,7 @@
     package="com.example.scaffold_plus">
    <application
         android:label="scaffold_plus"
-        android:name="${applicationName}"
+        android:name="Scaffold Plus"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
