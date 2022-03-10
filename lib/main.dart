@@ -23,3 +23,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+// Github page https://github.com/hafidikhsan/app-regresi-linear-flutter
